@@ -1,0 +1,2 @@
+# Trashify
+Waste Segregation App
